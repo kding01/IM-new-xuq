@@ -92,6 +92,12 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
 .form_hint {
   color:#999999;
 }
@@ -108,5 +114,11 @@
 .menu_item {
 }
 .shape {
+}
+.ellipse1 {
+}
+.box_3 {
+}
+.line {
 }
 textarea, select, input, button { outline: none; }
