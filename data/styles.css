@@ -121,4 +121,14 @@
 }
 .line {
 }
+.text_field1 {
+  color:#606266;
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.placeholder {
+}
 textarea, select, input, button { outline: none; }
